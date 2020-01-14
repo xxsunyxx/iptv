@@ -74,6 +74,7 @@ CCTV-15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京卡酷少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
+湖南卫视,http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN/
 CCTV-1,http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
 CCTV-2,http://vss.cbnmtv.com/live/yt_cctv2_h_1.m3u8?channelid=yt_cctv2_h
 CCTV-3,http://vss.cbnmtv.com/live/yt_cctv3_h_1.m3u8?channelid=yt_cctv3_h
@@ -86,6 +87,7 @@ CCTV-10,http://vss.cbnmtv.com/live/yt_cctv10_h_1.m3u8?channelid=yt_cctv10_h
 CCTV-12,http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
 CCTV-14,http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
 北京卫视,http://vss.cbnmtv.com/live/bjswsyth_1.m3u8?segmentserverid=bjswsyth_1&channelid=bjswsyth_1
+江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
 江苏卫视,http://vss.cbnmtv.com/live/yt_jiangsuweishi_h_1.m3u8?segmentserverid=yt_jiangsuweishi_h_1&channelid=yt_jiangsuweishi_h_1
 浙江卫视,http://vss.cbnmtv.com/live/yt_zhejiangweishi_h_1.m3u8?segmentserverid=yt_zhejiangweishi_l_1&channelid=yt_zhejiangweishi_h_1
 东方卫视,http://vss.cbnmtv.com/live/yt_dongfangweishi_h_1.m3u8?channelid=yt_dongfangweishi_h
@@ -258,8 +260,8 @@ CCTV-1,http://107.148.215.110:13164/v/migu.php?token=1729rVXKftEfiDqPstgOB6oR&id
 上海电视剧,http://111.48.34.157:80/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.157_80&hms_devid=283
 上海老辰光,http://107.148.215.110:13164/v/migu.php?token=3b24%2FQ3JIoEfiDqPstgOBacT&id=639528181
 内蒙古卫视,http://39.134.65.78:80/wh7f454c46tw1056291474_-1549672616/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1578959883&from=1&hms_devid=128
-凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰资讯台,http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯,http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
 湖南快乐购,http://phonews.qing.mgtv.com/nn_live/nn_x64/cz04YThhMWUxZDZiMzQyNGIzZDZlNGZjOTM1ODcyNWI3ZCZlcz0xNTc4OTgzNDE0JnV1aWQ9NjI1ZWI4NjQ5NGU3YWRkYjI3YjAxMTU3ZjI2ZDhiNGItMTdlZjA3YTYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/KLGMPP360.m3u8
 湖南电视剧,http://phonehw.qing.mgtv.com/nn_live/nn_x64/cz05NmJlYzgwZTdlMGM1NzNmYWQ5ZDMxYjI2YzY5NzI0NiZlcz0xNTc4OTgzMzk3JnV1aWQ9YzE5MWU4ODk1MzYxODU0MzJiMDNiOTFiODU0NzQ2M2YtMTdlZjA3YTYmdj0yJmFzPTAmY2RuZXhfaWQ9aHdfcGhvbmU,/HNDSJMPP360.m3u8
 辽宁影视剧,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E1CBE77U309DF010K7777638CIA607EF17PBM3226877V1044EZ33519WE5C42D00871&playtoken=ABCDEFGHI&programid=4200000027.m3u8
