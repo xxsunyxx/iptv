@@ -59,6 +59,9 @@ CCTV-15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 金鹰卡通,http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
 炫动卡通,http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
@@ -823,3 +826,12 @@ CCTV-17,http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?chann
 山西卫视,http://39.135.34.150:18890/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&amp;Contentid=1000000002000021220&amp;livemode=1&amp;stbId=005203FF000360100001001A34C0CD33&amp;userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&amp;usergroup=g21077200000&amp;version=1.0&amp;owaccmark=1000000002000021220&amp;owchid=ystenlive&amp;owsid=1106497909461381684&amp;AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhBGE2Bozg3VsjEsUfSwW1u%2f9d7qakC2cNwU6d3XLtivLzsKwupm4i1w5mp8nPnKP8
 新疆卫视,http://39.135.34.146:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&amp;Contentid=1000000002000029441&amp;livemode=1&amp;stbId=005203FF000360100001001A34C0CD33&amp;userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&amp;usergroup=g21077200000&amp;version=1.0&amp;owaccmark=1000000002000029441&amp;owchid=ystenlive&amp;owsid=1106497909461419044&amp;AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0%2bmFOeDvrFW
 云南卫视,http://39.135.34.157:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&amp;Contentid=1000000002000024694&amp;livemode=1&amp;stbId=005203FF000360100001001A34C0CD33&amp;userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&amp;usergroup=g21077200000&amp;version=1.0&amp;owaccmark=1000000002000024694&amp;owchid=ystenlive&amp;owsid=1106497909461387812&amp;AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA%2fwzvDSa%2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
+CCTV-3,http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+CCTV-5,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV-6,http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+CCTV-7,http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+CCTV-10,http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+CCTV-12,http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/
+CCTV-14,http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+CCTV-15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-5+,http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
