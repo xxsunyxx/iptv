@@ -40,6 +40,11 @@ CGTN,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
 辽宁卫视,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8
 重庆卫视,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
 安徽卫视,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
+CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+BesTV-4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+DXO-4K,http://183.238.77.9:9090/live/dox4k_16000.m3u8
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV-1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
